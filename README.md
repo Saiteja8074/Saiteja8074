@@ -46,21 +46,6 @@
 
 ---
 
-## 💼 Skills
-
-**🛢️ Databases**
-- MySQL  
-- SQL Server  
-
-**🐍 Programming**
-- Python (Pandas, NumPy, Matplotlib)  
-
-**📈 Tools**
-- Power BI  
-- Excel  
-- Git & GitHub  
-
----
 
 ## 🛠️ Tech Stack
 
