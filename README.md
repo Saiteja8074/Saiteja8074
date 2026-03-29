@@ -1,5 +1,5 @@
 
-<h1 align="center">⚡ Saiteja Tadikonda ⚡</h1>
+<h1 align="center">⚡ SAITEJA TADIKONDA ⚡</h1>
 
 <h2 align="center">
 <img src="https://readme-typing-svg.demolab.com/?lines=Aspiring+Data+Analyst;Data+Driven+Decision+Maker;Python+%7C+SQL+%7C+Power+BI+%7c+Excel;Turning+Data+into+Business+Insights;Building+Real+World+Data+Projects;Open+to+Data+Analyst+Opportunities&center=true&width=600&height=50">  
