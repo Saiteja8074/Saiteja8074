@@ -1,5 +1,5 @@
 
-<h1 align="center">⚡ SAITEJA TADIKONDA ⚡</h1>
+<h1 align="center"> SAITEJA TADIKONDA </h1>
 
 <h2 align="center">
 <img src="https://readme-typing-svg.demolab.com/?lines=Aspiring+Data+Analyst;Data+Driven+Decision+Maker;Python+%7C+SQL+%7C+Power+BI+%7c+Excel;Turning+Data+into+Business+Insights;Building+Real+World+Data+Projects;Open+to+Data+Analyst+Opportunities&center=true&width=600&height=50">  
@@ -9,18 +9,18 @@
 
 ## 🧑‍💻 About Me
 
-🚀 I am a **Data Analyst** driven by curiosity and a passion for uncovering insights hidden in data.  
+- I am a **Data Analyst** driven by curiosity and a passion for uncovering insights hidden in data.  
 
-🔥 I enjoy working with datasets to clean, analyze, and visualize information, transforming it into meaningful stories that support decision-making. My work focuses on **EDA, dashboard development, and data-driven problem solving**.  
+- I enjoy working with datasets to clean, analyze, and visualize information, transforming it into meaningful stories that support decision-making. My work focuses on **EDA, dashboard development, and data-driven problem solving**.  
 
-📈 I believe data is not just numbers — it is a powerful tool to guide strategy and innovation.  
+- I believe data is not just numbers — it is a powerful tool to guide strategy and innovation.  
 
-📊 I specialize in converting raw data into **meaningful insights** that support business decisions  
+- I specialize in converting raw data into **meaningful insights** that support business decisions  
 
-🛠️ Tools I work with:
+- Tools I work with:
 **Python | SQL | Excel | Power BI**
 
-📈 Continuously building real-world projects to strengthen analytical thinking and problem-solving  
+- Continuously building real-world projects to strengthen analytical thinking and problem-solving  
 
 ---
 
