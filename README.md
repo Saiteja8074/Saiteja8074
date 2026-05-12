@@ -7,7 +7,7 @@
   <b> Data Analyst • Problem Solver • Insight Creator</b>
 </h2> 
 
-## 🧑‍💻 About Me
+##  About Me
 
 - I am a **Data Analyst** driven by curiosity and a passion for uncovering insights hidden in data.  
 
@@ -24,22 +24,22 @@
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 
-### 📊 Sales/Data Analysis Dashboard (Power BI / Excel)
+###  Sales/Data Analysis Dashboard (Power BI / Excel)
 - Analyzed large datasets to identify key trends and business KPIs  
 - Built interactive dashboards with filters, slicers, and visual insights  
 - Enabled data-driven decision-making through clear visual reports  
 
 
-### 🗄️ SQL Data Analysis Project
+###  SQL Data Analysis Project
 - Performed data extraction using advanced SQL (JOINs, aggregations, window functions)  
 - Cleaned and transformed raw datasets for analysis  
 - Generated insights to support business and operational decisions  
 
 
-### 🐍 Python Data Analysis Project
+###  Python Data Analysis Project
 - Used Pandas, NumPy, and Matplotlib for data cleaning and visualization  
 - Conducted exploratory data analysis (EDA) to identify patterns and trends  
 - Delivered insights through visual storytelling   
@@ -47,7 +47,7 @@
 ---
 
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,mysql,git,github" />
@@ -64,7 +64,7 @@
 </p>
 
 
-## 📈 Activity Graph
+##  Activity Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saiteja8074&theme=tokyo-night"/>
@@ -72,7 +72,7 @@
 
 ---
 
-## 🐍 Contribution Snake
+##  Contribution Snake
 
 
 <p align="center">
@@ -88,7 +88,7 @@
 
 ---
 
-## 🌐 Connect With Me
+##  Connect With Me
 
 <p align="center">
 <a href="https://linkedin.com/in/Sai-teja-b59567331">
@@ -101,15 +101,11 @@
 
 ---
 
-## ✨ Quote
-
-> "Without data, you're just another person with an opinion."
 
 
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
-</p>
+
+
 
 <!-- Proudly created with ❤️ by Saiteja Tadikonda -->
 
