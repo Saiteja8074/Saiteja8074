@@ -13,12 +13,10 @@
 
 - I enjoy working with datasets to clean, analyze, and visualize information, transforming it into meaningful stories that support decision-making. My work focuses on **EDA, dashboard development, and data-driven problem solving**.  
 
-- I believe data is not just numbers — it is a powerful tool to guide strategy and innovation.  
-
-- I specialize in converting raw data into **meaningful insights** that support business decisions  
-
 - Tools I work with:
 **Python | SQL | Excel | Power BI**
+
+- I believe data is not just numbers — it is a powerful tool to guide strategy and innovation.  
 
 - Continuously building real-world projects to strengthen analytical thinking and problem-solving  
 
@@ -27,7 +25,7 @@
 ##  Featured Projects
 
 
-###  Sales/Data Analysis Dashboard (Power BI / Excel)
+###  Sales-Data Analysis Dashboard (Power BI / Excel)
 - Analyzed large datasets to identify key trends and business KPIs  
 - Built interactive dashboards with filters, slicers, and visual insights  
 - Enabled data-driven decision-making through clear visual reports  
@@ -50,40 +48,15 @@
 ##  Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,mysql,git,github" />
-</p>
-
-<p align="center">
 <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
 <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
 <img src="https://img.shields.io/badge/Matplotlib-white?style=for-the-badge&logo=matplotlib&logoColor=black"/>
-</p>
-
-
-##  Activity Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Saiteja8074&theme=tokyo-night"/>
-</p>
-
----
-
-##  Contribution Snake
-
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" 
-      srcset="https://raw.githubusercontent.com/Saiteja8074/Saiteja8074/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" 
-      srcset="https://raw.githubusercontent.com/Saiteja8074/Saiteja8074/output/github-snake.svg" />
-    <img alt="github contribution snake"
-      src="https://raw.githubusercontent.com/Saiteja8074/Saiteja8074/output/github-snake.svg" />
-  </picture>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
 ---
