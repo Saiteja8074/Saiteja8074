@@ -4,7 +4,7 @@
 <h2 align="center">
 <img src="https://readme-typing-svg.demolab.com/?lines=Aspiring+Data+Analyst;Data+Driven+Decision+Maker;Python+%7C+SQL+%7C+Power+BI+%7c+Excel;Turning+Data+into+Business+Insights;Building+Real+World+Data+Projects;Open+to+Data+Analyst+Opportunities&center=true&width=600&height=50">  
   
-  <b> Data Analyst • Problem Solver • Insight Creator</b>
+ 
 </h2> 
 
 ##  About Me
@@ -31,13 +31,13 @@
 - Enabled data-driven decision-making through clear visual reports  
 
 
-###  SQL Data Analysis Project
+###  Transactional-Data Analysis Project (SQL)
 - Performed data extraction using advanced SQL (JOINs, aggregations, window functions)  
 - Cleaned and transformed raw datasets for analysis  
 - Generated insights to support business and operational decisions  
 
 
-###  Python Data Analysis Project
+###  Customer-Behavior Analysis Project (Python)
 - Used Pandas, NumPy, and Matplotlib for data cleaning and visualization  
 - Conducted exploratory data analysis (EDA) to identify patterns and trends  
 - Delivered insights through visual storytelling   
@@ -72,13 +72,5 @@
 </a>
 </p>
 
----
 
-
-
-
-
-
-
-<!-- Proudly created with ❤️ by Saiteja Tadikonda -->
 
