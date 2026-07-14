@@ -22,28 +22,6 @@
 
 ---
 
-##  Featured Projects
-
-
-###  Sales-Data Analysis Dashboard (Power BI / Excel)
-- Analyzed large datasets to identify key trends and business KPIs  
-- Built interactive dashboards with filters, slicers, and visual insights  
-- Enabled data-driven decision-making through clear visual reports  
-
-
-###  Transactional-Data Analysis Project (SQL)
-- Performed data extraction using advanced SQL (JOINs, aggregations, window functions)  
-- Cleaned and transformed raw datasets for analysis  
-- Generated insights to support business and operational decisions  
-
-
-###  Customer-Behavior Analysis Project (Python)
-- Used Pandas, NumPy, and Matplotlib for data cleaning and visualization  
-- Conducted exploratory data analysis (EDA) to identify patterns and trends  
-- Delivered insights through visual storytelling   
-
----
-
 
 ##  Tech Stack
 
